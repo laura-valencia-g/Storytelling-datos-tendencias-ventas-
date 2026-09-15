@@ -1,0 +1,36 @@
+# Storytelling con Datos — Análisis de Tendencias de Ventas
+
+Análisis y narrativa visual de datos aplicados a la toma de decisiones comerciales: identificación de patrones de venta mensual por producto usando gráficos de barras, líneas y mapas de calor.
+
+*Trabajo académico — Universidad EAFIT, 2025 (Curso: BI para Decisiones Estratégicas).*
+
+## Objetivo
+
+A partir de datos de ventas mensuales de 5 productos (A–E) a lo largo de un año, identificar patrones de comportamiento, productos estrella por período y oportunidades de mejora, comunicando los hallazgos mediante **storytelling con datos** — no solo mostrar los gráficos, sino construir una narrativa que lleve a una decisión.
+
+## Metodología
+
+Se aplicó un enfoque progresivo de visualización, donde cada gráfico responde una pregunta distinta:
+
+1. **Gráfico de barras** — ¿qué producto vendió más cada mes?
+2. **Gráfico de líneas** — ¿cómo fue la tendencia general de ventas a lo largo del año, y dónde estuvieron los picos y valles?
+3. **Mapa de calor** — ¿qué producto tuvo mejor desempeño en qué momento del año, de forma comparativa?
+
+## Hallazgos clave
+
+- **No hay un producto dominante todo el año**: los productos A, C y E lideraron las ventas en distintos períodos, mientras que el producto B tuvo un pico aislado y muy pronunciado en julio (cercano a 3,000 unidades) sin relevancia en el resto del año — un patrón que sugiere una causa puntual (promoción, estacionalidad o evento externo) más que una tendencia sostenida.
+- Las ventas generales **no siguen una tendencia estable mes a mes**; se identificó una caída significativa en octubre que no se recuperó en los meses siguientes.
+- El **producto E mostró la venta más constante** a lo largo del año — un candidato ideal para estrategias de fidelización, dado que ya tiene una demanda estable y predecible.
+
+## Recomendaciones de negocio
+
+- Investigar qué generó el pico del producto B en julio (¿promoción específica? ¿evento estacional?) para evaluar si es replicable en otros productos.
+- Anticipar picos de demanda con promociones previas una vez identificado el patrón estacional.
+- Investigar la causa de la caída sostenida de octubre (¿quiebre de stock? ¿campaña de marketing poco efectiva?) para evitar que se repita.
+- Mantener buena disponibilidad de los productos A, C y E, que concentran la mayoría de las ventas.
+- Segmentar las campañas de marketing según el comportamiento específico de cada producto, en lugar de aplicar una estrategia uniforme.
+
+## Habilidades aplicadas
+
+Storytelling con datos · Visualización de datos (gráficos de barras, líneas, mapas de calor) · Análisis de tendencias y estacionalidad · Traducción de hallazgos analíticos en recomendaciones de negocio accionables
+
